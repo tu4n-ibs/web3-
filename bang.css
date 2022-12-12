@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+}
+ table {
+    border-collapse: collapse;
+    width: 50%;
+} 
+th {
+    height: 50px;
+    padding: 15px;
+}
+td{
+    vertical-align: bottom;
+    padding: 15px;
+}

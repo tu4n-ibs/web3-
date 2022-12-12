@@ -1,0 +1,15 @@
+p{
+    background: rgb(19, 17, 17);
+    margin: 20px;
+}
+ol {
+    background: yellow;
+    padding: 5px;
+ }
+ ul {
+    background: blue;
+    border: 10px blue;
+    text-align: center;
+ }
+ 
+  
